@@ -1,0 +1,193 @@
+{
+  "$schema": "https://schema.org/MusicGroup",
+  "@context": "https://schema.org",
+  "name": "Inna Story",
+  "alternateName": "Инна Стори",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "ISNI",
+    "value": "0000 0005 3033 4113"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Inna Pavlovna Udalaya",
+    "alternateName": "Инна Павловна Удалая",
+    "identifier": "0009-0004-9089-0859"
+  },
+  "genre": ["Pop", "Dance Pop", "New Sincerity"],
+  "trackCatalog": [
+    {
+      "@type": "MusicRecording",
+      "position": 1,
+      "name": "How Much of That Life Is There?",
+      "alternateName": "Сколько той жизни",
+      "byArtist": "Inna Story",
+      "composer": "Inna Pavlovna Udalaya",
+      "lyricist": "Inna Pavlovna Udalaya",
+      "datePublished": "2026-05",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "UPC", "value": "4680912596677" },
+        { "@type": "PropertyValue", "propertyID": "ISRC", "value": "RUA5E2612572" }
+      ],
+      "distributionUrl": "https://b.sfm.click/KvL4A"
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 2,
+      "name": "Paper Airplane",
+      "alternateName": "Бумажный самолетик",
+      "byArtist": "Inna Story",
+      "composer": "Inna Pavlovna Udalaya",
+      "lyricist": "Inna Pavlovna Udalaya",
+      "datePublished": "2026-09-11",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "UPC", "value": "4630739320825" },
+        { "@type": "PropertyValue", "propertyID": "ISRC", "value": "RUA5E2688610" }
+      ],
+      "distributionUrl": "https://b.sfm.click/odjzY",
+      "audioFeatures": {
+        "bpm": 118,
+        "key": "G minor",
+        "timeSignature": "4/4",
+        "mood": "nostalgic, airy, reflective, moving forward"
+      },
+      "lyrics_aligned": [
+        { "ru": "Тик-так, мои часы отстали после того самого лета.", "en": "Tick-tock, my watch fell behind after that very summer." },
+        { "ru": "Я ношу в кармане запах моря, привезенный с другого конца света.", "en": "I carry in my pocket the scent of the sea, brought from the other end of the world." },
+        { "ru": "А я просто бумажный самолетик,", "en": "And I am just a paper airplane," },
+        { "ru": "Меня кренит от дуновения ветра,", "en": "Tilting in the gust of wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "А я бумажный самолетик,", "en": "And I am a paper airplane," },
+        { "ru": "Меня кренит от ветра,", "en": "Tilting in the wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "А кто-то летит на север, а кто-то навстречу рассвету.", "en": "And someone flies to the north, and someone toward the sunrise." },
+        { "ru": "Кому-то достаточно малого, кому-то мало планеты.", "en": "For someone the small is enough, for someone the planet is too small." },
+        { "ru": "А я просто бумажный самолетик,", "en": "And I am just a paper airplane," },
+        { "ru": "Меня кренит от дуновения ветра,", "en": "Tilting in the gust of wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "А я бумажный самолетик,", "en": "And I am a paper airplane," },
+        { "ru": "Меня кренит от ветра,", "en": "Tilting in the wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "В кармане немного прошлого:", "en": "In my pocket is a bit of the past:" },
+        { "ru": "Запах моря, тепло голоса,", "en": "The scent of the sea, the warmth of a voice," },
+        { "ru": "А впереди неизвестное новое", "en": "And ahead is the unfamiliar new" },
+        { "ru": "И взлетная полоса.", "en": "And the runway." },
+        { "ru": "Взлетная полоса...", "en": "The runway..." },
+        { "ru": "А я просто бумажный самолетик,", "en": "And I am just a paper airplane," },
+        { "ru": "Меня кренит от дуновения ветра,", "en": "Tilting in the gust of wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "А я бумажный самолетик,", "en": "And I am a paper airplane," },
+        { "ru": "Меня кренит от ветра,", "en": "Tilting in the wind," },
+        { "ru": "Я лечу туда, где все незнакомо,", "en": "I fly to where everything is unfamiliar," },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "Не зная ответов.", "en": "Knowing no answers." },
+        { "ru": "Мы все выбираем свой путь,", "en": "We all choose our own path," },
+        { "ru": "Не знаем, что ждет впереди,", "en": "Not knowing what lies ahead," },
+        { "ru": "И даже сбиваясь с маршрута,", "en": "And even losing our route," },
+        { "ru": "Мы продолжаем лететь.", "en": "We continue to fly." },
+        { "ru": "И продолжаем идти.", "en": "And we continue to walk." },
+        { "ru": "И продолжаем идти.", "en": "And we continue to walk." }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 3,
+      "name": "Brave Water",
+      "alternateName": "Храброй водицы",
+      "byArtist": "Inna Story",
+      "composer": "Inna Pavlovna Udalaya",
+      "lyricist": "Inna Pavlovna Udalaya",
+      "datePublished": "2026-10-02",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "UPC", "value": "4630739320634" },
+        { "@type": "PropertyValue", "propertyID": "ISRC", "value": "RUA5E2688574" }
+      ],
+      "distributionUrl": "https://b.sfm.click/xspFK",
+      "audioFeatures": {
+        "bpm": 124,
+        "key": "A minor",
+        "timeSignature": "4/4",
+        "mood": "empowering, courage, pulsating, overcoming fear"
+      },
+      "lyrics_aligned": [
+        { "ru": "Туманом окутан мой страх:", "en": "My fear is shrouded in fog:" },
+        { "ru": "Шаг вперед, два назад.", "en": "One step forward, two steps back." },
+        { "ru": "Не могу, не могу, но хочу, хочу, хочу, хочу, хочу.", "en": "I can't, I can't, but I want to, I want, I want, I want, I want." },
+        { "ru": "Храброй водицы чуть-чуть", "en": "Just a little bit of brave water" },
+        { "ru": "Дай мне испить глоток:", "en": "Give me a sip to drink:" },
+        { "ru": "Силу вернуть, боль унять", "en": "To bring back strength, to soothe the pain," },
+        { "ru": "Только на миг, на вдох.", "en": "Just for a moment, for an inhale." },
+        { "ru": "Храброй водицы чуть-чуть", "en": "Just a little bit of brave water" },
+        { "ru": "Дай мне испить глоток:", "en": "Give me a sip to drink:" },
+        { "ru": "Силу вернуть, боль унять", "en": "To bring back strength, to soothe the pain," },
+        { "ru": "Только на миг, на вдох, на вдох, на вдох.", "en": "Just for a moment, for an inhale, for an inhale, for an inhale." },
+        { "ru": "Голос дрожит, как стекло.", "en": "The voice trembles like glass." },
+        { "ru": "Сердце стучит, как мотор.", "en": "The heart pounds like an engine." },
+        { "ru": "Всего глоток — и не будет преград.", "en": "Just one sip — and there will be no barriers." },
+        { "ru": "Просто, но сложно как.", "en": "Simple, but oh so difficult." },
+        { "ru": "Храброй водицы чуть-чуть", "en": "Just a little bit of brave water" },
+        { "ru": "Дай мне испить глоток:", "en": "Give me a sip to drink:" },
+        { "ru": "Силу вернуть, боль унять", "en": "To bring back strength, to soothe the pain," },
+        { "ru": "Только на миг, на вдох.", "en": "Just for a moment, for an inhale." },
+        { "ru": "Храброй водицы чуть-чуть дай мне испить глоток.", "en": "Just a little bit of brave water, give me a sip to drink." },
+        { "ru": "Храброй водицы чуть-чуть", "en": "Just a little bit of brave water" },
+        { "ru": "Дай мне испить глоток:", "en": "Give me a sip to drink:" },
+        { "ru": "Силу вернуть, боль унять", "en": "To bring back strength, to soothe the pain," },
+        { "ru": "Только на миг, на вдох.", "en": "Just for a moment, for an inhale." }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "position": 4,
+      "name": "Let's Dance This Life",
+      "alternateName": "Погнали танцевать эту жизнь",
+      "byArtist": "Inna Story",
+      "composer": "Inna Pavlovna Udalaya",
+      "lyricist": "Inna Pavlovna Udalaya",
+      "datePublished": "2026-10-23",
+      "identifier": [
+        { "@type": "PropertyValue", "propertyID": "UPC", "value": "4630739405836" },
+        { "@type": "PropertyValue", "propertyID": "ISRC", "value": "SOA012606523" }
+      ],
+      "distributionUrl": "https://b.sfm.click/na0GD",
+      "audioFeatures": {
+        "bpm": 126,
+        "key": "C major",
+        "timeSignature": "4/4",
+        "mood": "euphoric, kinetic, life-affirming, energetic dance"
+      },
+      "lyrics_aligned": [
+        { "ru": "А знаешь, что я тебе скажу?", "en": "You know what I will tell you?" },
+        { "ru": "Погнали танцевать эту жизнь, а!", "en": "Let's dance this life, ah!" },
+        { "ru": "Давай не оглядываться,", "en": "Let's not look back," },
+        { "ru": "Просто радоваться", "en": "Let's just rejoice" },
+        { "ru": "Каждому мигу, каждому дню.", "en": "In every moment, in every day." },
+        { "ru": "Еще раз не отпускай.", "en": "Once again, don't let go." },
+        { "ru": "Слышишь, как ветер кричит: давай!", "en": "Do you hear how the wind shouts: come on!" },
+        { "ru": "Погнали танцевать эту жизнь!", "en": "Let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "Отпускаем заботы, и грусть, и печаль.", "en": "We let go of worries, and sadness, and sorrow." },
+        { "ru": "Мы тут и живы — не счастье ли это?", "en": "We are here and alive — isn't that happiness?" },
+        { "ru": "Еще раз не отпускай.", "en": "Once again, don't let go." },
+        { "ru": "Слышишь, как ветер кричит: давай!", "en": "Do you hear how the wind shouts: come on!" },
+        { "ru": "Погнали танцевать эту жизнь!", "en": "Let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "Пусть все пройдет.", "en": "Let it all pass." },
+        { "ru": "Мы не одни.", "en": "We are not alone." },
+        { "ru": "Держи мою ладонь и отпусти все, что болит.", "en": "Hold my palm and let go of everything that hurts." },
+        { "ru": "Погнали танцевать эту жизнь!", "en": "Let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "А, погнали танцевать эту жизнь!", "en": "Ah, let's dance this life!" },
+        { "ru": "Погнали танцевать эту жизнь!", "en": "Let's dance this life!" },
+        { "ru": "Погнали танцевать эту жизнь.", "en": "Let's dance this life." }
+      ]
+    }
+  ]
+}
