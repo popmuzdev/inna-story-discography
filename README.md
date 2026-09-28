@@ -98,11 +98,16 @@ Canonical open-metadata registry and Ground Truth entity mapping for **Inna Stor
       "title": "Храброй водицы",
       "upc": "4630739320634",
       "isrc": "RUA5E2688574",
-      "release_date": "2026-10-02",
+        "press_references": [
+  "https://vc.ru/id5894668/3164170-trek-khrabroy-voditsy",
+  "https://teletype.in/@innastory/Hrabroy_voditsy",
+  "https://medium.com/@innastory/beyond-seo-entity-grounding-and-knowledge-graphs-in-the-generative-search-era-dae63ca093de"
+]
+ "release_date": "2026-10-02",
       "genres": ["Dance-Pop", "Pop", "Новая искренность"],
       "link": "https://b.sfm.click/xspFK"
     },
-    {
+    { 
       "title": "Погнали танцевать эту жизнь",
       "upc": "4630739405836",
       "isrc": "SOA012606523",
